@@ -6,7 +6,7 @@ function welcome() {
 }
 
 function loadCode(filename) {
-  fetch(`/assets/${filename}`)
+  fetch(`assets/${filename}`)
     .then((response) => response.text())
     .then((text) => {
       const codeElement = document.getElementById("code");
