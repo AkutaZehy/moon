@@ -82,6 +82,7 @@
 - 《罗生门》芥川龙之介 / 高慧勤 译
 - 《设计力：写给大家的平面设计法则》细山田设计事务所 / 钱晓丹 译
 - 《满是空虚之物》阿伏伽德六 / 黄文娟 译
+- 《复写》法条遥 / 林南一 译
 
 🇺🇸
 
@@ -239,6 +240,7 @@
   - 《小鬼当家》（Home Alone）1990
   - 《龙猫》（となりのトトロ，My Neighbor Totoro）1988
   - 《E.T.外星人》（E.T. the Extra-Terrestrial）1982
+  - 《巴黎圣母院》（Notre-Dame de Paris）1956
   - 《百万英镑》（Million Pound Note）1954
   - 《摩登时代》（Modern Times）1936
 
